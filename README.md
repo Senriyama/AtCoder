@@ -10,5 +10,5 @@
 
 リンク https://atcoder.jp/users/Nobunaga1534  
 
-![C++](https://cdn.worldvectorlogo.com/logos/c.svg)  
+<img src="https://chdn.worldvectorlogo.com/logos/c.svg" width="320px">  
 ![Java](https://vignette.wikia.nocookie.net/java/images/3/3a/Java--eps--vector-logo.png/revision/latest?cb=20190615110340&path-prefix=ja)  
