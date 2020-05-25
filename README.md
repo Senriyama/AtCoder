@@ -24,7 +24,7 @@
 
 ## 以下は興味のある言語です. 
 
-# 4.1. Rust  
+# ① Rust  
 <img src="https://www.rust-lang.org/static/images/rust-social-wide.jpg" width="320px">
 C/C++と同等の処理速度なのがいいらしい.FireFoxで使われてるのがびっくり！ 
 
