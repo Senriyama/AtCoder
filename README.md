@@ -17,4 +17,6 @@
 <img src="https://www.bizlearn.jp/wp/wp-content/uploads/2017/10/Python.png" width="320px">  
 もっと書けるようになりたいPython.  
 以下は興味のある言語です.  
-<img src="https://www.rust-lang.org/static/images/rust-social-wide.jpg" width="320px">Rust
+<img src="https://www.rust-lang.org/static/images/rust-social-wide.jpg" width="320px">
+Rust.C/C++と同等の処理速度なのがいいらしい.FireFoxで使われてるのがびっくり！  
+変数束縛っていうのがあるらしくてそこがむずそう.
