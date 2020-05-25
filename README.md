@@ -1,3 +1,3 @@
 # AtCoder
 
-** AtCoder ** の精進日記
+**AtCoder** の精進日記
