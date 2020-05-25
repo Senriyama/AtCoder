@@ -15,4 +15,6 @@
 <img src="https://vignette.wikia.nocookie.net/java/images/3/3a/Java--eps--vector-logo.png/revision/latest?cb=20190615110340&path-prefix=ja" width="250px">
 大学の1回生2回生の前期で扱って慣れてきたJava.
 <img src="https://www.bizlearn.jp/wp/wp-content/uploads/2017/10/Python.png" width="320px">  
-もっと書けるようになりたいPython.
+もっと書けるようになりたいPython.  
+以下は興味のある言語です.  
+<img src="https://www.rust-lang.org/static/images/rust-social-wide.jpg" width="320px">Rust
