@@ -18,5 +18,5 @@
 もっと書けるようになりたいPython.  
 以下は興味のある言語です.  
 <img src="https://www.rust-lang.org/static/images/rust-social-wide.jpg" width="320px">
-Rust.C/C++と同等の処理速度なのがいいらしい.FireFoxで使われてるのがびっくり！  
+Rust.C/C++と同等の処理速度なのがいいらしい.FireFoxで使われてるのがびっくり!  
 変数束縛っていうのがあるらしくてそこがむずそう.
